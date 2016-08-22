@@ -26,10 +26,10 @@ If you wish for this alias to persist on reboot, you can append this line to you
 
 ## Usage
 
-####### displaying help
+###### displaying help
 
 `$ docker run -it --rm embrasure/hashid --help`
 
-####### running hashID
+###### running hashID
 
 `$ docker run -it --rm embrasure/hashid <INPUT>`
